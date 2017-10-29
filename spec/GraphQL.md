@@ -102,20 +102,20 @@ explicitly in prose (e.g. "Note: ") or are set apart in a note block, like this:
 Note: This is an example of a non-normative note.
 
 
-# [Overview](Section 1 -- Overview.md)
+[Overview](Section 1 -- Overview.md)
 
-# [Language](Section 2 -- Language.md)
+[Language](Section 2 -- Language.md)
 
-# [Type System](Section 3 -- Type System.md)
+[Type System](Section 3 -- Type System.md)
 
-# [Introspection](Section 4 -- Introspection.md)
+[Introspection](Section 4 -- Introspection.md)
 
-# [Validation](Section 5 -- Validation.md)
+[Validation](Section 5 -- Validation.md)
 
-# [Execution](Section 6 -- Execution.md)
+[Execution](Section 6 -- Execution.md)
 
-# [Response](Section 7 -- Response.md)
+[Response](Section 7 -- Response.md)
 
-# [Appendix: Notation Conventions](Appendix A -- Notation Conventions.md)
+[Appendix: Notation Conventions](Appendix A -- Notation Conventions.md)
 
-# [Appendix: Grammar Summary](Appendix B -- Grammar Summary.md)
+[Appendix: Grammar Summary](Appendix B -- Grammar Summary.md)
